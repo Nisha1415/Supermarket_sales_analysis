@@ -32,8 +32,11 @@ cd Supermarket_sales_analysis
 pip install -r requirements.txt
 
 # (Optional) Activate Virtual Environment
+
 venv\Scripts\activate        # Windows
+
 source venv/bin/activate     # Mac/Linux
+
 
 # Run the Notebook
 jupyter notebook notebook/supermarket_sales_analysis.ipynb
